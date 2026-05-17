@@ -1,8 +1,8 @@
 ## Hi, I'm Rubén! 👋
 
-🔋 Working on battery simulation software @CIDETEC.<br/>
+🔋 Working on battery simulation software @elysia.<br/>
 🚀 Studied Aerospace Engineering at Universidad Politécnica de Madrid.<br/>
-🔗 You can reach me out via [LinkedIn](https://es.linkedin.com/in/ruben-parra-rufo). <br/>
+🔗 You can reach me out via [LinkedIn](https://es.linkedin.com/in/ruben-parra-rufo).<br/>
 
 ## 📊 Github Stats
 
